@@ -1,7 +1,7 @@
 
 ## Ben Kimim ?
 ```js
-class Lunes {
+class Macro {
     constructor(options) {
 this.name: "Mert"
 this.surname: "Demir"
@@ -11,7 +11,7 @@ this.birthday: "3.24.2008"
 this.spicalday: "1.1.2018"
     };
 }
-module.exports = Lunes
+module.exports = Macro
 ```
 
 ### 🛠 &nbsp;Software Languages
